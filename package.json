@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DamianEVO/unit-testing-project.git",
+  "author": "Damian <diqqqtv@gmail.com\ngit config --global user.email damian.mariusz.pyszka@gmail.com\ngit config --global user.name Damian\ngit commit -m created>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
